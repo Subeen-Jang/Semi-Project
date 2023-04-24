@@ -3,7 +3,7 @@
 취향에 맞는 사람들과의 모임을 제공하는 <strong>취미 커뮤니티 플랫폼 서비스</strong>입니다.
 
 
-<img src="https://user-images.githubusercontent.com/121777490/234072658-a4c20363-7937-4236-b860-7932518f7885.png" width="60%" height="60%"/>
+<img src="https://user-images.githubusercontent.com/121777490/234072658-a4c20363-7937-4236-b860-7932518f7885.png"/>
 - 진행기간 : 23.01.25 ~ 23.02.13
 
 - 주요 기능
