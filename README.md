@@ -2,8 +2,8 @@
 >모임은 즐거운 <strong>취미 생활</strong>을 위해<br>
 취향에 맞는 사람들과의 모임을 제공하는 <strong>취미 커뮤니티 플랫폼 서비스</strong>입니다.
 
-<!--![screencapture-192-168-1-135-9090-meomum-index-do-2023-04-18-10_30_09](https://user-images.githubusercontent.com/121777501/232715248-5e492968-5ede-42d1-b52c-1836e25621d8.png)-->
 
+<img src="https://user-images.githubusercontent.com/121777490/234072658-a4c20363-7937-4236-b860-7932518f7885.png" width="60%" height="60%"/>
 - 진행기간 : 23.01.25 ~ 23.02.13
 
 - 주요 기능
