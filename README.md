@@ -4,7 +4,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/121777490/234328411-2a1a7c10-38ef-4b49-b3ba-3a5798241ad6.png" width="80%" height="80%"/>
-- 진행기간 : 23.01.25 ~ 23.02.13
+- 진행기간 : 23.01. ~ 23.02.
 
 - 주요 기능
   - 누구나 쉽게 모임 생성 
